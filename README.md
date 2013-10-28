@@ -1,5 +1,5 @@
-lmstbsfy
-========
+let me search that bs for you
+=============================
 
 Chrome add-on for searching debunked, fake, hoax and quackery on various search engines.
 
